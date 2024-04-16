@@ -1,0 +1,15 @@
+newasef
+
+as
+This is line 4 which should be copied
+This is line 5 which is actually copied
+
+
+asf
+
+asfa
+sfaf
+
+asdf
+sdfas
+fa

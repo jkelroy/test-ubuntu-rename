@@ -1,2 +1,0 @@
-asdfasdfasdftest-ubuntu
-asdf
